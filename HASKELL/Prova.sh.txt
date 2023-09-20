@@ -1,0 +1,3 @@
+somma :: Int -> Int -> Int
+somma n 0 = n
+somma n m = n+m
